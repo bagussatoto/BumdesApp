@@ -20,7 +20,8 @@
 ## Instalasi
 
 ``` 
- git clone https://github.com/bagussatoto/BundesApp.git
+git clone https://github.com/bagussatoto/BundesApp.git
+```
 
 ## Kritik Dan Saran 
 Email :
